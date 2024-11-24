@@ -1,0 +1,19 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+	background-color: black;
+	background-image: url('../img/fireworks.jpg');
+	background-size: cover;
+}
+
+/* Align centre horizontally and vertically */
+.centre {
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+}
